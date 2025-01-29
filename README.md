@@ -1,3 +1,3 @@
-# TestSep24
+# Test
 
 https://linamaho.github.io/TestSep24/
